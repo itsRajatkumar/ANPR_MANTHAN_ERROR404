@@ -9,6 +9,7 @@ The model is based on YOLOv3 and is trained to detect number plates in a variety
 
 The model is built taking into consideration the highest accuracy achievable without compromising on speed. It has been trained on more than 2000 images annotated manually.
 
+`(Drive Credential Are Provided to the Mentors)`
 
 Since the weight files are too big to bypass the GitHub upload limit (100 MB) we have decided to place the Detection model on Google Drive. Run the `ANPR_Train.ipynb` and `ANPR_TEST.ipynb` files for training and testing the model respectively
 `OCR_Test.ipynb` and `OCR_Train.ipynb` for OCR.
